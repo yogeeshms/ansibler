@@ -5,6 +5,4 @@
      debug:
         msg: hi this chg from webhook git no 2/3
    - name: test2
-     debug:
-         msg: second line
 
